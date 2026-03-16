@@ -16,7 +16,7 @@ Custom integrations I've built for the [n8n](https://n8n.io) workflow automation
 - 📞 **[n8n-nodes-ringcentral](https://github.com/ajoshuasmith/n8n-nodes-ringcentral)** — RingCentral telephony integration
 - 🥷 **[n8n-nodes-ninja-one](https://github.com/ajoshuasmith/n8n-nodes-ninja-one)** — NinjaOne RMM integration
 - ☁️ **[n8n-nodes-cipp](https://github.com/ajoshuasmith/n8n-nodes-cipp)** — CIPP Microsoft 365 multi-tenant management
-- 🤖 **[n8n-nodes-teamsbot](https://github.com/ajoshuasmith/teamsbot)** — Microsoft Teams Bot
+- 🤖 **[n8n-nodes-teamsbot](https://github.com/ajoshuasmith/n8n-nodes-teamsbot)** — Microsoft Teams Bot
 - 📊 **[n8n-nodes-scalepad](https://github.com/ajoshuasmith/n8n-nodes-scalepad)** — ScalePad lifecycle management
 - 💰 **[n8n-nodes-quoter](https://github.com/ajoshuasmith/n8n-nodes-quoter)** — Quoter quoting & proposals
 - 🤖 **[n8n-nodes-immybot](https://github.com/ajoshuasmith/n8n-nodes-immybot)** — ImmyBot software deployment & management
