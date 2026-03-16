@@ -21,6 +21,7 @@ Custom integrations I've built for the [n8n](https://n8n.io) workflow automation
 - 💰 **[n8n-nodes-quoter](https://github.com/ajoshuasmith/n8n-nodes-quoter)** — Quoter quoting & proposals
 - 🤖 **[n8n-nodes-immybot](https://github.com/ajoshuasmith/n8n-nodes-immybot)** — ImmyBot software deployment & management
 - 🎯 **[n8n-nodes-strety](https://github.com/ajoshuasmith/n8n-nodes-strety)** — Strety strategic planning platform
+- 🍎 **[n8n-nodes-addigy](https://github.com/ajoshuasmith/n8n-nodes-addigy)** - Apple Mobile Device Management
 
 ## Tools
 
