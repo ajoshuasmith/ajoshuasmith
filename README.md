@@ -23,11 +23,6 @@ Custom integrations I've built for the [n8n](https://n8n.io) workflow automation
 - 🎯 **[n8n-nodes-strety](https://github.com/ajoshuasmith/n8n-nodes-strety)** — Strety strategic planning platform
 - 🍎 **[n8n-nodes-addigy](https://github.com/ajoshuasmith/n8n-nodes-addigy)** - Apple Mobile Device Management
 
-## Tools
-
-- 🔀 **[Nilearwise](https://github.com/ajoshuasmith/Nilearwise)** — Browser extension that redirects ConnectWise Manage ticket links to Nilear MTX
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/-ajoshuasmith.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](http://ajoshuasmith.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajoshuasmith)
